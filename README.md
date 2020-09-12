@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rohit-kashyap-52b703178/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nrchandan" height="30" width="30" /></a>
-<a href="https://twitter.com/RohitKa15608994" target="blank"><img align="center" src="https://i.kinja-img.com/gawker-media/image/upload/s--YanW2HO8--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/17oyh0zri482jjpg.jpg" alt="Rohit Kashyap" height="30" width="30" /></a>
+<a href="https://twitter.com/RohitKa15608994" target="blank"><img align="center" src="https://pmcdeadline2.files.wordpress.com/2016/09/twitter-logo.jpg" alt="Rohit Kashyap" height="30" width="30" /></a>
 </p>
 
 - 🔭 I’m currently working with eDataIndia company.
