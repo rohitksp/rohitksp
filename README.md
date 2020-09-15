@@ -20,5 +20,5 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/>
 </p>
-<p align="center"><img src="https://camo.githubusercontent.com/c0045f9f081d2f2674bf0a9a15b65c33215dc278/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d526f686974373036352673686f775f69636f6e733d74727565267468656d653d67726561742d67617473627926636f756e745f707269766174653d74727565" alt="Rohit Kashyap" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit7065&layout=compact" alt="Rohit Kashyap"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rohitksp&show_icons=true&theme=great-gatsby&count_private=true" alt="Rohit Kashyap" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitksp&layout=compact" alt="Rohit Kashyap"/></p>
