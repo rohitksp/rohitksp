@@ -1,4 +1,4 @@
-<p align="center"><img src="https://images.unsplash.com/photo-1585076641399-5c06d1b3365f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" /></p>
+<p align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3mVKYM-oo6pgetRKHZvMO_H0TutbCCx55Zw&usqp=CAU" /></p>
 <br>
 
 <h1 align="center">Hi 👋, I'm Rohit</h1>
