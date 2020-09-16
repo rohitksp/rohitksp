@@ -14,6 +14,7 @@
 <p align="center">
 <a href="https://sourcerer.io/rohitksp" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_sourcerer.png" alt="My programming skills" height="100" width="100" /></a>
 </p>
+<br>
 
 <p align="center">
 <img src="https://th.bing.com/th/id/OIP.2T8L0Cv-BuqVyrvKO9ZeEQHaHa?pid=Api&rs=1" alt="Github" width="30" height="30"/>
