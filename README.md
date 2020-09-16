@@ -1,3 +1,6 @@
+<p align="center"><img src="https://images.unsplash.com/photo-1585076641399-5c06d1b3365f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" /></p>
+<br>
+
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center"><em>I am an aspiring Web developer</em></h3>
 
