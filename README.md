@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="center">I am an aspiring Web developer</h3>
+<h3 align="center"><em>I am an aspiring Web developer</em></h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rohit-kashyap-52b703178/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nrchandan" height="30" width="30" /></a>
