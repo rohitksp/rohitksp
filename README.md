@@ -10,6 +10,11 @@
 - 🔭 I’m currently working with eDataIndia     <a href="https://www.edataindia.com/" target="blank"><img align="center" src="https://www.edataindia.com/wp-content/themes/Edata/images/logo.jpg" alt="Rohit Kashyap" height="30" width="30" /></a>
 - 📫 How to reach me: rohitgta7@gmail.com
 
+<h5 align="center"><em>You can see more information about me: </em></h5>
+<p align="center">
+<a href="https://sourcerer.io/rohitksp" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_sourcerer.png" alt="My programming skills" height="100" width="100" /></a>
+</p>
+
 <p align="center">
 <img src="https://th.bing.com/th/id/OIP.2T8L0Cv-BuqVyrvKO9ZeEQHaHa?pid=Api&rs=1" alt="Github" width="30" height="30"/>
 <img src="http://obscureproblemsandgotchas.com/wp-content/uploads/2018/09/Git-bash.png" alt="Gitbash" width="30" height="30"/>
