@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <p align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3mVKYM-oo6pgetRKHZvMO_H0TutbCCx55Zw&usqp=CAU height = 20px" /></p>
+=======
+<p align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3mVKYM-oo6pgetRKHZvMO_H0TutbCCx55Zw&usqp=CAU" width=100% /></p>
+>>>>>>> 5f42b9a93406aef56956114fbee17f92edb685cb
 <br>
 
 <h1 align="center">Hi 👋, I'm Rohit</h1>
