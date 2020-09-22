@@ -15,7 +15,7 @@
 
 <h5 align="center"><em>You can see more information about me: </em></h5>
 <p align="center">
-<a href="https://sourcerer.io/rohitksp" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_sourcerer.png" alt="My programming skills" height="80" width="80" /></a>
+<a href="https://sourcerer.io/rohitksp" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_sourcerer.png" alt="My programming skills" height="75" width="75" /></a>
 <a href="https://wakatime.com/dashboard" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.nY8LKQXBjZtANzWv7_fsZwHaHa?pid=Api&rs=1" alt="My programming skills" height="100" width="100" /></a>
 </p>
 <br>
