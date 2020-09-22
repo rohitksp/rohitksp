@@ -1,4 +1,4 @@
-<p align="center"><img src="https://wallpapercave.com/wp/wp3313545.jpg" width = 100% height = 20% /></p>
+<p align="center"><img src="https://wallpapercave.com/wp/wp3313545.jpg" width = 100% /></p>
 <br>
 
 <h1 align="center">Hi 👋, I'm Rohit</h1>
