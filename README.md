@@ -1,4 +1,4 @@
-<p align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3mVKYM-oo6pgetRKHZvMO_H0TutbCCx55Zw&usqp=CAU" width = 100% /></p>
+<p align="center"><img src="https://wallpapercave.com/wp/wp3313545.jpg" width = 100% /></p>
 <br>
 
 <h1 align="center">Hi 👋, I'm Rohit</h1>
