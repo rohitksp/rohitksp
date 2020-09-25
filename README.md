@@ -41,4 +41,4 @@
 
 </details>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=rohitksp&color=4a171e" alt="mfcrespo" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=rohitksp&color=f3deb7" alt="Rohit Kashyap" /> </p>
