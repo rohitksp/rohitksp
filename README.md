@@ -31,6 +31,7 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/>
 </p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitksp&layout=compact" alt="Rohit Kashyap"/></p>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <details>
 <summary>📈 My GitHub Stats</summary>
 
