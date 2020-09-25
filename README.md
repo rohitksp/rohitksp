@@ -13,6 +13,9 @@
 - 🔭 I’m currently working with eDataIndia     <a href="https://www.edataindia.com/" target="blank"><img align="center" src="https://www.edataindia.com/wp-content/themes/Edata/images/logo.jpg" alt="Rohit Kashyap" height="30" width="30" /></a>
 - 📫 How to reach me: rohitgta7@gmail.com
 
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 <h5 align="center"><em>You can see more information about me: </em></h5>
 <p align="center">
 <a href="https://sourcerer.io/rohitksp" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_sourcerer.png" alt="My programming skills" height="75" width="75" /></a>
@@ -31,7 +34,6 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/>
 </p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitksp&layout=compact" alt="Rohit Kashyap"/></p>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <details>
 <summary>📈 My GitHub Stats</summary>
 
