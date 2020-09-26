@@ -1,7 +1,7 @@
 <p align="center"><img src="https://wallpapercave.com/wp/wp3313545.jpg" width = 100% height = 225 /></p>
 <br>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Rohit</h1>
+<h1 align="center"><em>Hi</em> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><em>I'm Rohit</em></h1>
 <h3 align="center"><em>I am an aspiring Web developer</em></h3>
 
 <p align="center">
