@@ -33,7 +33,6 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/>
 </p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitksp&layout=compact" alt="Rohit Kashyap"/></p>
 <details>
 <summary>📈 My GitHub Stats</summary>
 
