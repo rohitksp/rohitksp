@@ -12,7 +12,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 🔭 I’m currently working with eDataIndia     <a href="https://www.edataindia.com/" target="blank"><img align="center" src="https://www.edataindia.com/wp-content/themes/Edata/images/logo.jpg" alt="Rohit Kashyap" height="30" width="30" /></a>
+- 🔭 I’m currently working with eDataIndia     <a href="https://www.edataindia.com/" target="blank"><img align="center" src="https://thumbs.dreamstime.com/b/instagram-logo-icon-voronezh-russia-november-square-black-color-164585975.jpg" alt="Rohit Kashyap" height="30" width="30" /></a>
 - 📫 How to reach me: rohitgta7@gmail.com
 
 
