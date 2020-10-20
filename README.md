@@ -7,7 +7,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/rohit-kashyap-52b703178/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/61/61109.png" alt="Rohit kashyap" height="30" width="30" /></a>
 <a href="https://twitter.com/RohitKa15608994" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/60/60580.svg" alt="Rohit Kashyap" height="30" width="30" /></a>
-<a href="https://www.instagram.com/r.o.h.i.t__k.u.m.a.r/?hl=en" target="blank"><img align="center" src="https://i.pinimg.com/originals/63/9b/3d/639b3dafb544d6f061fcddd2d6686ddb.png" alt="Rohit Kashyap" height="30" width="30" /></a>
+<a href="https://www.instagram.com/r.o.h.i.t__k.u.m.a.r/?hl=en" target="blank"><img align="center" src="https://www.clipartmax.com/png/middle/174-1749125_instagramm-clipart-instergram-black-instagram-logo-png.png" alt="Rohit Kashyap" height="30" width="30" /></a>
 </p>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
