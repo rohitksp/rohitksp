@@ -2,7 +2,7 @@
 <br>
 
 <h1 align="center"><em>Hi</em> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"><em> I'm Rohit</em></h1>
-<h3 align="center"><em>I am an aspiring Web developer</em></h3>
+<h3 align="center"><em>I am a Web developer</em></h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rohit-kashyap-52b703178/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/61/61109.png" alt="Rohit kashyap" height="30" width="30" /></a>
