@@ -26,7 +26,7 @@
 <p align="center">
 <img src="https://th.bing.com/th/id/OIP.2T8L0Cv-BuqVyrvKO9ZeEQHaHa?pid=Api&rs=1" alt="Github" width="30" height="30"/>
 <img src="http://obscureproblemsandgotchas.com/wp-content/uploads/2018/09/Git-bash.png" alt="Gitbash" width="30" height="30"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="30" height="30"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
