@@ -39,5 +39,4 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rohitksp&show_icons=true&theme=great-gatsby&count_private=true" alt="Rohit Kashyap" />
 
 </details>
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rohitksp&color=blue" alt="Rohit Kashyap" /> </p>
