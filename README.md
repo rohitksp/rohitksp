@@ -2,17 +2,12 @@
 <br>
 
 <h1 align="center"><em>Hi</em> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"><em> I'm Rohit</em></h1>
-<h3 align="center"><em>I am a Web developer</em></h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/rohit-kashyap-52b703178/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/61/61109.png" alt="Rohit kashyap" height="30" width="30" /></a>
-<a href="https://twitter.com/RohitKa15608994" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/60/60580.svg" alt="Rohit Kashyap" height="30" width="30" /></a>
-<a href="https://www.instagram.com/r.o.h.i.t__k.u.m.a.r/?hl=en" target="blank"><img align="center" src="https://www.clipartmax.com/png/middle/174-1749125_instagramm-clipart-instergram-black-instagram-logo-png.png" alt="Rohit Kashyap" height="30" width="30" /></a>
-</p>
+<h3 align="center"><em>I am a Software Engineer Frontend</em></h3>
+<p align="center">I'm always eager to expand my skill set. Currently, I believe in continuous learning and staying updated with the latest trends in the frontend development landscape.</p>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 🔭 I’m currently working with eDataIndia
+- 🔭 Currently I am not working with any organization.
 - 📫 How to reach me: rohitgta7@gmail.com
 
 
@@ -24,14 +19,14 @@
 <br>
 
 <p align="center">
-<img src="https://th.bing.com/th/id/OIP.2T8L0Cv-BuqVyrvKO9ZeEQHaHa?pid=Api&rs=1" alt="Github" width="30" height="30"/>
-<img src="http://obscureproblemsandgotchas.com/wp-content/uploads/2018/09/Git-bash.png" alt="Gitbash" width="30" height="30"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="30" height="30"/>
-<img src="https://www.hostingadvice.com/images/uploads/2019/08/aws-logo-2.png?width=300&height=180" alt="aws" width="30" height="30"/>
-<img src="https://logos-download.com/wp-content/uploads/2016/09/Docker_logo.png" alt="docker" width="30" height="30"/>
-<img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" alt="html5" width="30" height="30"/>
-<img src="https://maxcdn.icons8.com/Share/icon/Logos/css31600.png" alt="css3" width="30" height="30"/>
-<img src="https://th.bing.com/th/id/OIP.oqORSnYF8S_ZaMMMkakS7gHaHb?pid=Api&rs=1" alt="bootstrap" width="30" height="30"/>
+<img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" alt="HTML" width="30" height="30" title="HTML"/>
+<img src="https://billing.flourisense.in/wp-content/uploads/2022/11/css3.png" alt="CSS" width="30" height="30" title="CSS"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="Javascript" width="30" height="30" title="Javascript"/>
+<img src="https://github.com/rohitksp/rohitksp/assets/68800075/1478e980-95d8-4ba8-8495-f37a5187200a" alt="React" width="30" height="30" title="React"/>
+<img src="https://github.com/rohitksp/rohitksp/assets/68800075/e5938386-4c91-4e55-8b6e-9c916ef155af" alt="Vue" width="30" height="30" title="Vue"/>
+<img src="https://github.com/rohitksp/rohitksp/assets/68800075/d6a1ab02-48cb-47f7-9745-db5ec4015ddf" alt="Tailwind" width="30" height="30" title="Tailwind"/>
+<img src="https://github.com/rohitksp/rohitksp/assets/68800075/0b570a27-7f8b-442b-a310-67552cb62ac0" alt="Vuetify" width="30" height="30" title="Vuetify"/>
+<img src="https://github.com/rohitksp/rohitksp/assets/68800075/82ffb523-666a-47f7-abcb-de5291b835ce" alt="Pinia" width="25" height="30" title="Pinia"/>
 </p>
 <details>
 <summary>📈 My GitHub Stats</summary>
